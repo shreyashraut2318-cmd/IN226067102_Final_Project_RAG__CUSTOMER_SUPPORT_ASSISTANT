@@ -1,0 +1,20 @@
+# Web Framework and Server
+fastapi
+uvicorn
+pydantic
+
+# LangChain and RAG Logic
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-groq
+langgraph
+
+# Document Processing and Embeddings
+pypdf
+sentence-transformers
+python-dotenv
+
+# Utilities
+typing-extensions
